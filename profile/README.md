@@ -1,4 +1,4 @@
-# Only Quck Web Application
+# OnlyQuck Web Application
 
 Peer Review is a web application to allow students to review the assignments of their peers.
 
